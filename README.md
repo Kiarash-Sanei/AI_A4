@@ -1,0 +1,1 @@
+This assignment is about Bayes' Nets, Markov Models, and Hidden Markov Models.
